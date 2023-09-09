@@ -1,9 +1,11 @@
-import React from 'react'
-
-function app() {
-  return (
-    <div>app</div>
-  )
-}
-
-export default app
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ajeb</title>
+</head>
+<body>
+  <H1>Hello Ajeb</H1>
+</body>
+</html>
